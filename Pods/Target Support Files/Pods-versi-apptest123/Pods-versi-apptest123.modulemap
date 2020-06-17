@@ -1,0 +1,6 @@
+framework module Pods_versi_apptest123 {
+  umbrella header "Pods-versi-apptest123-umbrella.h"
+
+  export *
+  module * { export * }
+}
